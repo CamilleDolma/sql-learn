@@ -127,8 +127,11 @@
             <mxPoint x="180" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1vwSDo1HANlviIb9VTY-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Split by date, export to CSV&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="400" width="80" height="30" as="geometry" />
+        <mxCell id="a1vwSDo1HANlviIb9VTY-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Split by date,&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;export to CSV,&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;process to raw files&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="400" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a1vwSDo1HANlviIb9VTY-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
