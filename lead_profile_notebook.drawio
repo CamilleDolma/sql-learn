@@ -43,6 +43,15 @@
         <mxCell id="a1vwSDo1HANlviIb9VTY-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Recent records&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="95" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="a1vwSDo1HANlviIb9VTY-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="110" as="sourcePoint" />
+            <mxPoint x="1000" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a1vwSDo1HANlviIb9VTY-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sort by&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;id&lt;/font&gt; &amp;amp; &lt;font face=&quot;Courier New&quot;&gt;timestamp&lt;/font&gt;,&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;keep latest&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="65" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
