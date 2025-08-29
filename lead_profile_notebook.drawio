@@ -13,9 +13,6 @@
         <mxCell id="a1vwSDo1HANlviIb9VTY-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1vwSDo1HANlviIb9VTY-6" value="Filter records" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="850" y="290" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="a1vwSDo1HANlviIb9VTY-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ADLS connected, paths configured&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="120" height="30" as="geometry" />
         </mxCell>
@@ -42,6 +39,9 @@
         </mxCell>
         <mxCell id="a1vwSDo1HANlviIb9VTY-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Read data from &lt;font face=&quot;Courier New&quot;&gt;cls_lead_profile&lt;/font&gt; &amp;amp; filter by date&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="65" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a1vwSDo1HANlviIb9VTY-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Recent records&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="95" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
