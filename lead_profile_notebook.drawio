@@ -1,17 +1,32 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.1">
   <diagram name="Page-1" id="DoE369QI6YSKjkSNsfdR">
-    <mxGraphModel dx="1641" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="695" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wWSp4FE7oR-9iToILMVN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wWSp4FE7oR-9iToILMVN-2" value="Start" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="305" width="60" height="30" as="geometry" />
+        <mxCell id="wWSp4FE7oR-9iToILMVN-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Start&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="95" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SPHqI68QQcNwD6bf6_oX-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="305" width="120" height="60" as="geometry" />
+        <mxCell id="SPHqI68QQcNwD6bf6_oX-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a1vwSDo1HANlviIb9VTY-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Connect to Azure Data Lake&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="95" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a1vwSDo1HANlviIb9VTY-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a1vwSDo1HANlviIb9VTY-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Recognize&amp;nbsp; new dates from last final day&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="95" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a1vwSDo1HANlviIb9VTY-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a1vwSDo1HANlviIb9VTY-6" value="Filter records" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="290" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
